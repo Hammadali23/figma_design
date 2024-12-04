@@ -1,8 +1,8 @@
 export default function Hero(){
   return (
-      <section className=" bg-[#FAF5F5] min-h-96 p-12 flex items-centre justify-evenly max-md:flex-col max-md:justify-center  ">
-    <div className="max-md:order-2 mb-8 md:mb-0 max-md:text-center space-y-7">
-      <h1 className="text-3xl font-extrabold ">
+      <section className=" bg-[#FAF5F5]  min-h-96 p-12 flex items-centre justify-evenly max-md:flex-col max-md:justify-center  ">
+    <div className="max-md:order-2 mb-8 md:mb-0 max-md:text-center space-y-7 dark:text-black">
+      <h1 className="text-3xl font-extrabold  ">
         Hi, I am John, <br />Creative Technologist
       </h1>
       <p className="">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugit odio <br /> blanditiis itaque iusto? Sunt, nam. Non distinctio expedita sunt sit <br /> pariatur  repellat ipsa quod aliquid.</p>
